@@ -1,0 +1,7 @@
+.DS_Store
+xcuserdata
+*.mode1v3
+*.pbxuser
+*-merge.strings
+*.trace
+*.xcworkspace
